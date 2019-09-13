@@ -1,0 +1,9 @@
+{
+    "name": "com.luvikung.sdseditor",
+    "displayName": "Script Define Symbols Editor",
+    "description": "Script Define Symbols Editor is an Unity Editor Window that able to manage script define symbols per build.",
+    "version": "1.0.0",
+    "unity": "2018.4",
+    "license": "MIT",
+    "dependencies": {}
+}
