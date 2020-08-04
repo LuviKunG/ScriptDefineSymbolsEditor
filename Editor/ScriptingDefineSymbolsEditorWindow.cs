@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEditorInternal;
 using UnityEngine;
 
-namespace LuviKunG.SDSEditor
+namespace LuviKunG
 {
     public class ScriptingDefineSymbolsEditorWindow : EditorWindow
     {
