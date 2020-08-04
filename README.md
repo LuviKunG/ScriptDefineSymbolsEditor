@@ -5,6 +5,8 @@ Script Define Symbols Editor is an Unity Editor Window that able to manage scrip
 
 To open Script Define Symbols Editor, simply go to your Unity menu bars and select **Window/LuviKunG/Script Define Symbols Editor**
 
+![preview](images/preview.gif)
+
 You will see a list of your script define symbols that you setup in unity project. Also you can manage, add, remove or sort your script define symbols as you want.
 
 On the tool bar,
@@ -25,7 +27,7 @@ Then merge this json format below.
 ```json
 {
   "dependencies": {
-    "com.luvikung.sdseditor": "https://github.com/LuviKunG/ScriptDefineSymbolsEditor.git#1.0.0"
+    "com.luvikung.sdseditor": "https://github.com/LuviKunG/ScriptDefineSymbolsEditor.git#1.0.1"
   }
 }
 ```
@@ -40,7 +42,7 @@ In Unity 2019.3 or greater, Package Manager is include the new feature that able
 
 Just simply using this git URL and following with version like this example.
 
-**https://github.com/LuviKunG/ScriptDefineSymbolsEditor.git#1.0.0**
+**https://github.com/LuviKunG/ScriptDefineSymbolsEditor.git#1.0.1**
 
 Make sure that you're select the latest version.
 
